@@ -97,7 +97,7 @@ ComfyUI lets you design and execute advanced stable diffusion pipelines using a 
 **The easiest way to get started.**
 
 1. Go to the **Releases** page.
-2. Download the **Windows Portable** zip file.
+2. Download the **Windows Portable** `7.z` file.
 3. Extract the file.
 4. **Run.** (No extra setup required).
 
