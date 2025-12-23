@@ -4,6 +4,8 @@
 
 **Forget complex installations. This is a lightweight, one-click solution. No code, no hassle—just download, click, and everything works immediately.**
 
+![](assets/comfy.png)
+
 ---
 
 ### 🚀 Build Highlights
